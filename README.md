@@ -1,4 +1,4 @@
-# assignment_internshala
+# Experimental Project
 
 A new Flutter project.
 
